@@ -1,7 +1,11 @@
 #Code Fellows JS-401
-[![Build Status](https://travis-ci.com/jlhiskey/code-challenge.svg?branch=master)](https://travis-ci.com/jlhiskey/10-recursion)
+
 ##Linked Lists
 
+##### Build Status
+
+ [![Build Status](https://travis-ci.com/jlhiskey/code-challenge.svg?branch=master)](https://travis-ci.com/jlhiskey/10-recursion)
+ 
 This assignment consisted of taking function code that creates a linked list and adding a method called deleteListItem to a module called linked-list.js which allows you to designate how many nodes you want to traverse existing linked list and then delete the node that follows the targeted node.
 
 ## Getting Started
