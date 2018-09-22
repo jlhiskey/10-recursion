@@ -1,7 +1,4 @@
- ###
- [![Build Status](https://travis-ci.com/jlhiskey/code-challenge.svg?branch=master)](https://travis-ci.com/jlhiskey/10-recursion)
- 
-#Code Fellows JS-401
+ #Code Fellows JS-401
 
 ##Linked Lists
  This assignment consisted of taking function code that creates a linked list and adding a method called deleteListItem to a module called linked-list.js which allows you to designate how many nodes you want to traverse existing linked list and then delete the node that follows the targeted node.
@@ -29,3 +26,7 @@ the command:  npm i
 
 ##License 
 - This project is licensed under the MIT License.
+
+### Build Status
+ [![Build Status](https://travis-ci.com/jlhiskey/code-challenge.svg?branch=master)](https://travis-ci.com/jlhiskey/10-recursion)
+ 
