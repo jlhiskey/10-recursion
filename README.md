@@ -1,4 +1,5 @@
- #Code Fellows JS-401
+![cf](https://i.imgur.com/7v5ASc8.png) JavaScript-401d26
+=======
 
 ##Linked Lists
  This assignment consisted of taking function code that creates a linked list and adding a method called deleteListItem to a module called linked-list.js which allows you to designate how many nodes you want to traverse existing linked list and then delete the node that follows the targeted node.
