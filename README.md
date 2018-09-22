@@ -1,4 +1,6 @@
+ ###
  [![Build Status](https://travis-ci.com/jlhiskey/code-challenge.svg?branch=master)](https://travis-ci.com/jlhiskey/10-recursion)
+ 
 #Code Fellows JS-401
 
 ##Linked Lists
